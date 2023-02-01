@@ -5,7 +5,7 @@ name: CI Build
 
 on:
   pull_request:
-    types: [opened, edited]
+    types: [opened, synchronize]
 
 jobs:
   build:
