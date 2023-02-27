@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:Password1234@codeninjas.hkvxevj.mongodb.net/?retryWrites=true&w=majority
+      database: ecommerce
+
