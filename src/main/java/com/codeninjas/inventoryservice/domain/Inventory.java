@@ -24,6 +24,5 @@ public class Inventory {
     private String itemCode;
 
     @NotNull(message = "quantity can't be null")
-    @NotBlank(message = "quantity can't be blank")
     private int quality;
 }
